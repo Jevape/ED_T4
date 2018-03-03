@@ -20,5 +20,9 @@ public class Centros {
 	numerohoras = nh;
 	idCentro= ic;
 	}
+	
+	public String getNombre() {
+	return nombre;
+	}
 
 }
