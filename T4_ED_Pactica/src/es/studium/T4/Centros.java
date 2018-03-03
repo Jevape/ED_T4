@@ -24,7 +24,8 @@ public class Centros {
 	public String getNombre() {
 	return nombre;
 		
-		//cómo nos gusta un comentario!! 
+		//cómo nos gusta un comentario!!
+		// el Guille estuvo aqui ... Volveré ...
 	}
 
 }
