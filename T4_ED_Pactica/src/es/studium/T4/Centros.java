@@ -23,6 +23,8 @@ public class Centros {
 	
 	public String getNombre() {
 	return nombre;
+		
+		//cómo nos gusta un comentario!! 
 	}
 
 }
